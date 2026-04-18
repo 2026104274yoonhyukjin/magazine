@@ -167,7 +167,7 @@
                 <!-- 기사 카드 1 -->
                 <article class="magic-card">
                     <span class="badge-new">MBTI</span>
-                    <img src="./images/mbti.png" alt="MBTI 검사">
+                    <img src="https://i.pinimg.com/736x/3e/ba/a3/3ebaa3fb90d120d33bf2820777c2d901.jpg" alt="MBTI 검사">
                     <h3 style="font-size: 1rem; margin: 10px 0;">MBTI 검사</h3>
                     <p style="font-size: 0.9rem; color: #555;">최근에 검사한 MBTI 검사 결과로 ISFJ-T가 나왔지만 I 빼고 다 중간 정도인 50% 대가 나왔습니다. 실제로 제 MBTI는 I 빼고 자주 바뀝니다.</p>
                 </article>
